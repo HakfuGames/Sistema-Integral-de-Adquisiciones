@@ -1,0 +1,247 @@
+﻿SISTEMA INTEGRAL DE ADQUISICIONES
+Crea una plataforma estilo gubernamental, la cual servirá para generación de documentos (WORD, EXCEL, PDF), generación de reportes (con semáforo de colores, porcentajes y gráficos claros y ejecutivos), control de integración de expedientes de contrataciones gubernamentales (con Ley de Adquisiciones Federal, Estatal [Veracruz]), control de trámites administrativos (notificaciones vía Mail y propia plataforma que avise en tiempo real los trámites próximos a vencer, así como los ya vencidos, incidencias y/o errores en la captura de la información), que dicha plataforma tenga la capacidad de carga de documentos (WORD, EXCEL, PDF), lectura, comprensión y validación de documentos PDF con los siguientes parámetros y/o información:
+Objetivo:
+Digitaliza procesos, centraliza la operación administrativa y mejora la gestión pública con un sistema moderno, escalable y diseñado para las necesidades del sector gubernamental.
+Alcance:
+Optimizar el proceso de compra desde la solicitud hasta la recepción de bienes y/o servicios, aportando trazabilidad completa y en tiempo real del proceso de compra, utiliza flujos de autorización digital y control por niveles jerárquicos, generación de Reportes y evidencias documentales para auditoria y rendición de cuentas.
+Utilidades:
+Padrón de proveedores:Gestión centralizada de expedientes, vigencia de documentos y clasificación por giro comercial. Certeza total de con quién contrata el gobierno.
+Cuadros Comparativos: Análisis automático de propuestas técnicas y económicas. El sistema genera el comparativo ideal para facilitar la toma de decisiones en el comité.
+Generación de documentos:cada módulo tendrá formatos pre cargados de documentos que previa captura de información del usuario podrá descargar en distintos formatos o imprimirlos, documentos y/o capturas que estarán vinculadas a distintos parámetros como presupuesto, trámites, etc., asegurando siempre una congruencia cronológica y de presupuesto (para el caso de Contratos, pedidos, fianzas, actas de entrega-recepción de bienes y/o servicios).
+Formatos:El sistema debe contener formatos precargados en Microsoft Word y Excel, capaz de permitir cargas manuales y/o masivas desde archivos con dichos formatos.
+Almacenamiento:Capacidad para permitir el almacenamiento de la información en un host, discos duros, o servidor, permitiendo el acceso por medio de la nube a todos lo usuarios desde cualquier lugar.
+Reportes: Generador de reportes ejecutivos o listados de información.
+Sistema de validación de captura:Deberá permitir la validación de documentos o captura de información mediante Lector de huellas dactilares. 
+IA (Inteligencia Artificial):Deberá contener APIs de IA basados en modelos de lenguaje (LLM) o herramientas de Reconocimiento Óptico de Caracteres (OCR),para que cuando el usuario cargue un documento en formato PDF, el sistema pueda extraer el texto, comprender el contexto,analizar y validar la información cargada por el usuario.
+Imagen:El sistema deberá tener los colores institucionales de la presente administración de Morena 2025-2030, sin embargo, no puede llevar los logos ni eslogan del partido antes citado, se pueden utilizar diferentes tonalidades de dichos colores institucionales para un mejor contraste de las interfaces, módulos, botones, menús del sistema, etc., deberá utilizar como referencia los archivos denominados “Botonera”, “iconos” y “módulos”, para guiarse en la creación de las interfaces, módulos, botones de acciones, iconos, etc.
+Grupos de usuarios:
+Los diferentes usuarios que contendrá el sistema estarán divididos por 4 Grupos los cuales serán: 
+Áreas Usuarias
+Unidad Compradora
+Proveedores
+Administradores
+Estos Grupos tendrán acceso especifico a ciertos módulos y Submódulos señalados más adelante. A su vez se asignará un “Rol” para cada usuario.
+Roles: 
+Operador
+Administrador
+Supervisor
+El rol Operador será asignado a cada Área Usuaria, unidad compradora y proveedor sin límite de usuarios y el rol Administrador serán asignado únicamente uno por área usuaria.
+Estructura del sistema:
+Interfaces:
+Login (Usuario y Contraseña)
+Panel de Módulos
+Módulos:
+Generador
+Seguimiento
+Procedimientos
+Ayuda
+Catálogos
+Bases de datos
+Submódulos:
+Requisiciones
+Disponibilidad
+Investigación de Mercado
+Visita a instalaciones
+Autorizaciones
+Subcomité
+Proyectos de Bases
+Junta de Aclaraciones
+Invitaciones
+Apertura
+Corresponsabilidad
+Evaluación Técnica
+Evaluación Técnica-Económica
+Fallos
+Contratos
+Pedidos
+Entrega-Recepción
+Órdenes de Pago
+Cambio Marca
+Ampliación
+Prórroga
+Cotizaciones
+Documentación
+Entrega
+Facturación
+Adjudicación Directa
+Adjudicación Directa por Excepción de Ley
+Invitación a Cuando Menos Tres Proveedores
+Licitación Pública Estatal
+Licitación Pública Nacional
+Licitación Pública Internacional
+Licitación Pública Internacional Bajo la Cobertura de Tratados
+Módulos y submódulos que puede visualizar cada Grupo de usuarios:
+Áreas Usuarias
+ Generador
+Requisiciones
+Disponibilidad
+Autorizaciones
+Visita a instalaciones
+Evaluación Técnica
+Pedidos
+Entrega-Recepción
+Órdenes de Pago
+Cambio Marca
+Ampliación
+Prórroga
+ Seguimiento
+Ayuda
+Unidad Compradora
+ Procedimientos
+Adjudicación Directa por Monto
+Requisición
+Disponibilidad
+Investigación de Mercado
+Autorizaciones
+Pedido
+Entrega-Recepción
+Adjudicación Directa por Excepción de Ley
+Requisición
+Disponibilidad
+Investigación de Mercado
+Visita a Instalaciones
+Autorizaciones
+Subcomité
+Notificación
+Contrato
+Pedido
+Fianza
+Prórroga
+Cambio de Marca
+Entrega-Recepción
+Facturación
+Órdenes de Pago
+Ampliación
+Invitación a Cuando Menos Tres Proveedores
+Requisición
+Disponibilidad
+Investigación de Mercado
+Visita a Instalaciones
+Autorizaciones
+Subcomité
+Proyectos de Bases
+Invitaciones
+Apertura
+Corresponsabilidad
+Evaluación Técnica-Económica
+Fallo
+Contrato
+Pedido
+Fianza
+Prórroga
+Cambio de Marca
+Entrega-Recepción
+Facturación
+Órdenes de Pago
+Ampliación
+Licitación Pública Estatal
+Requisición
+Disponibilidad
+Investigación de Mercado
+Visita a Instalaciones
+Autorizaciones
+Subcomité
+Convocatoria
+Proyecto de Bases
+Invitaciones
+Junta de aclaraciones
+Apertura
+Evaluación Técnica-Económica
+Fallo
+Contrato
+Pedido
+Fianza
+Prórroga
+Cambio de Marca
+Entrega-Recepción
+Facturación
+Órdenes de Pago
+Ampliación
+Licitación Pública Nacional
+Requisición
+Disponibilidad
+Investigación de Mercado
+Visita a Instalaciones
+Autorizaciones
+Subcomité
+Convocatoria
+Proyecto de Bases
+Invitaciones
+Junta de aclaraciones
+Apertura
+Evaluación Técnica-Económica
+Fallo
+Contrato
+Pedido
+Fianza
+Prórroga
+Cambio de Marca
+Entrega-Recepción
+Facturación
+Órdenes de Pago
+Ampliación
+Licitación Pública Internacional
+Requisición
+Disponibilidad
+Investigación de Mercado
+Visita a Instalaciones
+Autorizaciones
+Subcomité
+Convocatoria
+Proyecto de Bases
+Invitaciones
+Junta de aclaraciones
+Apertura
+Evaluación Técnica-Económica
+Fallo
+Contrato
+Pedido
+Fianza
+Prórroga
+Cambio de Marca
+Entrega-Recepción
+Facturación
+Órdenes de Pago
+Ampliación
+Licitación Pública Internacional Bajo la Cobertura de Tratados
+Requisición
+Disponibilidad
+Investigación de Mercado
+Visita a Instalaciones
+Autorizaciones
+Subcomité
+Convocatoria
+Proyecto de Bases
+Invitaciones
+Junta de aclaraciones
+Apertura
+Evaluación Técnica-Económica
+Fallo
+Contrato
+Pedido
+Fianza
+Prórroga
+Cambio de Marca
+Entrega-Recepción
+Facturación
+Órdenes de Pago
+Ampliación
+Catálogos
+Clasificador por Concepto del Gasto
+Estructura Presupuestal
+Bases de Datos
+Usuarios
+Proveedores
+Áreas Usuarias
+Ayuda
+Proveedores
+Generador
+Cotizaciones
+Documentación
+Entrega
+Ayuda
+Administradores
+Seguimiento
+Cada módulo y submódulo deben tener un botón para regresar a la interfaz anterior, es decir, por ejemplo, si estamos dentro del submódulo “Contrato” este debe tener un botón llamado “Regresar” el cual nos llevará al módulo “Generador”, este a su vez un botón igual que nos devolverá a la interfaz “Panel de Módulos”.
+Los módulos y submódulos deberán permitir compartir información entre ellos y aun entre grupos diferentes. El contenido de cada módulo y submódulo se ira especificando en otros documentos.
+También se deberá generar una guía de apoyo o manual de usuario llamado “Estructura del Sistema” por cada grupo de usuarios, utilizando imágenes del sistema una vez creado, que contenga texto y que sirva para explicar al usuario de manera clara y concreta como se encuentra estructurado el sistema. Así mismo, se deberá crear un video con dicha información utilizando avatares animados en idioma español (México), para que posteriormente se comparte en un canal de youtube, que contenga la misma explicación de la guía de apoyo o manual de usuario.

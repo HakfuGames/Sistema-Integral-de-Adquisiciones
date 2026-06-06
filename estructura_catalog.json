@@ -1,0 +1,162 @@
+[
+  {
+    "area": "Contraloría Interna",
+    "clave": "CI",
+    "programa": "Contraloría Interna"
+  },
+  {
+    "area": "Dirección General Jurídica",
+    "clave": "DGJ",
+    "programa": "Dirección General Jurídica"
+  },
+  {
+    "area": "Unidad de Género",
+    "clave": "UDG",
+    "programa": "Unidad de Género"
+  },
+  {
+    "area": "Jefatura de Sector",
+    "clave": "JDS",
+    "programa": "Jefatura de Sector"
+  },
+  {
+    "area": "FASP ESTATAL",
+    "clave": "FE",
+    "programa": "FASP ESTATAL"
+  },
+  {
+    "area": "FASP FEDERAL",
+    "clave": "FF",
+    "programa": "FASP FEDERAL"
+  },
+  {
+    "area": "Ayudantía de la C. Gobernadora del Estado",
+    "clave": "ADLCGD",
+    "programa": "Ayudantía de la C. Gobernadora del Estado"
+  },
+  {
+    "area": "Unidad de Transparencia",
+    "clave": "UDT",
+    "programa": "Unidad de Transparencia"
+  },
+  {
+    "area": "Dirección General de Reinserción Social",
+    "clave": "DGDRS",
+    "programa": "Dirección General de Reinserción Social"
+  },
+  {
+    "area": "Direcciones de Centros Penitenciarios y Módulo de Prisión Preventiva",
+    "clave": "DDCPYM",
+    "programa": "Direcciones de Centros Penitenciarios y Módulo de Prisión Preventiva"
+  },
+  {
+    "area": "Dirección General de Tránsito y Seguridad Vial del Estado",
+    "clave": "DGDTYS",
+    "programa": "Dirección General de Tránsito y Seguridad Vial del Estado"
+  },
+  {
+    "area": "Subdirección Operativa",
+    "clave": "SO",
+    "programa": "Subdirección Operativa"
+  },
+  {
+    "area": "Dirección General de Transporte del Estado",
+    "clave": "DGDTDE",
+    "programa": "Dirección General de Transporte del Estado"
+  },
+  {
+    "area": "Dirección General de Asuntos Internos",
+    "clave": "DGDAI",
+    "programa": "Dirección General de Asuntos Internos"
+  },
+  {
+    "area": "Dirección General de Prevención y Vinculación Institucional",
+    "clave": "DGDPYV",
+    "programa": "Dirección General de Prevención y Vinculación Institucional"
+  },
+  {
+    "area": "Dirección General del Centro de Evaluación y Control de Confianza",
+    "clave": "DGDCDE",
+    "programa": "Dirección General del Centro de Evaluación y Control de Confianza"
+  },
+  {
+    "area": "Dirección General de Ejecución de Medidas para Adolescentes",
+    "clave": "DGDEDM",
+    "programa": "Dirección General de Ejecución de Medidas para Adolescentes"
+  },
+  {
+    "area": "Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública",
+    "clave": "SEDSYD",
+    "programa": "Secretaría Ejecutiva del Sistema y del Consejo Estatal de Seguridad Pública"
+  },
+  {
+    "area": "Subsecretaría de Operaciones",
+    "clave": "SDO",
+    "programa": "Subsecretaría de Operaciones"
+  },
+  {
+    "area": "Dirección de Operaciones",
+    "clave": "DDO",
+    "programa": "Dirección de Operaciones"
+  },
+  {
+    "area": "Dirección de Servicios y Apoyos Estratégicos",
+    "clave": "DDSYAE",
+    "programa": "Dirección de Servicios y Apoyos Estratégicos"
+  },
+  {
+    "area": "Dirección de Policía e Investigación",
+    "clave": "DDPEI",
+    "programa": "Dirección de Policía e Investigación"
+  },
+  {
+    "area": "Dirección de Estado Mayor Policial",
+    "clave": "DDEMP",
+    "programa": "Dirección de Estado Mayor Policial"
+  },
+  {
+    "area": "Subsecretaría de Logística",
+    "clave": "SDL",
+    "programa": "Subsecretaría de Logística"
+  },
+  {
+    "area": "Dirección de Armas y Municiones de la Licencia Oficial Colectiva",
+    "clave": "DDAYMD",
+    "programa": "Dirección de Armas y Municiones de la Licencia Oficial Colectiva"
+  },
+  {
+    "area": "Dirección General de Policía Cibernética",
+    "clave": "DGDPC",
+    "programa": "Dirección General de Policía Cibernética"
+  },
+  {
+    "area": "Dirección General del Centro Estatal de Control, Comando, Comunicaciones y Cómputo (C4)",
+    "clave": "DGDCED",
+    "programa": "Dirección General del Centro Estatal de Control, Comando, Comunicaciones y Cómputo (C4)"
+  },
+  {
+    "area": "Subsecretaría de Prevención, Participación Ciudadana y Reinserción Social",
+    "clave": "SDPPCY",
+    "programa": "Subsecretaría de Prevención, Participación Ciudadana y Reinserción Social"
+  },
+  {
+    "area": "Oficialía Mayor",
+    "clave": "OM",
+    "programa": "Oficialía Mayor"
+  },
+  {
+    "area": "SEMAR",
+    "clave": "S",
+    "programa": "SEMAR"
+  },
+  {
+    "area": "Dirección General del Sistema Estatal de Inteligencia",
+    "clave": "DGDSED",
+    "programa": "Dirección General del Sistema Estatal de Inteligencia"
+  },
+  {
+    "area": "Academia Regional de Seguridad Pública del Sureste",
+    "clave": "ARDSPD",
+    "programa": "Academia Regional de Seguridad Pública del Sureste"
+  }
+]

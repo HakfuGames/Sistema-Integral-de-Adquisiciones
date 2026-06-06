@@ -1,0 +1,2062 @@
+[
+  {
+    "code": "111001",
+    "name": "1 D iet a s"
+  },
+  {
+    "code": "113001",
+    "name": "1 S ueld o s y S a la r io s"
+  },
+  {
+    "code": "113002",
+    "name": "2 S o b r e s ueld o J e r a r q ui z a c ió n Te r c ia r ia Po li c ia l"
+  },
+  {
+    "code": "121001",
+    "name": "1 Pe r s o na l d e L is t a d e R a y a"
+  },
+  {
+    "code": "121002",
+    "name": "2 H o no r a r io s Pr o fes io na les"
+  },
+  {
+    "code": "121003",
+    "name": "3 H o no r a r io s p o r E jec uc ió n"
+  },
+  {
+    "code": "122001",
+    "name": "1 S ueld o s B a s e a l Pe r s o na l E v e nt ua l"
+  },
+  {
+    "code": "122002",
+    "name": "2 S uple nc ia s"
+  },
+  {
+    "code": "122003",
+    "name": "3 S ueld o s a l E m p lea d o Te m p o r a l A d m in is t r a t iv o"
+  },
+  {
+    "code": "123001",
+    "name": "1 R e m un e r a c io nes p o r S e r v ic io s E s p e c ia les"
+  },
+  {
+    "code": "123002",
+    "name": "2 A y uda p o r S e r v ic io s"
+  },
+  {
+    "code": "131001",
+    "name": "1 Q ui nque ni o s"
+  },
+  {
+    "code": "131002",
+    "name": "2 Q ui nque ni o s N uev a G e ner a c ió n"
+  },
+  {
+    "code": "132001",
+    "name": "1 Pr im a D o m in ic a l"
+  },
+  {
+    "code": "132002",
+    "name": "2 G r a t if ic a c ió n A nu a l"
+  },
+  {
+    "code": "132003",
+    "name": "3 Pr im a V a c a c io na l"
+  },
+  {
+    "code": "132004",
+    "name": "4 B o no A nu a l d e D e s p e ns a"
+  },
+  {
+    "code": "132005",
+    "name": "5 C a na s t a N a v ide ña"
+  },
+  {
+    "code": "133001",
+    "name": "1 C o m p e ns a c ió n p o r S e r v ic io s d e Tur no V e s p e r t in o"
+  },
+  {
+    "code": "134001",
+    "name": "1 C o m p e ns a c io nes F ij a s"
+  },
+  {
+    "code": "134002",
+    "name": "2 C o m p e ns a c ió n d e E s c a s o D e s a r r o ll o"
+  },
+  {
+    "code": "134003",
+    "name": "3 Pa r t ic ipa c io nes a l Pe r s o na l"
+  },
+  {
+    "code": "134004",
+    "name": "4 C o m p e ns a c ió n p o r A s igna c ió n Pe d a g ó g ic a E s p e c íf ic a"
+  },
+  {
+    "code": "134005",
+    "name": "5 C o m p e ns a c ió n p o r A ju s t e d e C a lend a r io"
+  },
+  {
+    "code": "134006",
+    "name": "6 C o m p e ns a c ió n D o c e nt e"
+  },
+  {
+    "code": "134007",
+    "name": "7 C o m p e ns a c ió n A d m in is t r a t iv a"
+  },
+  {
+    "code": "141001",
+    "name": "1 I ns t it ut o Me xic a no d e l S e g ur o S o c ia l"
+  },
+  {
+    "code": "141002",
+    "name": "2 S e g ur o I ns t it uc io na l"
+  },
+  {
+    "code": "141003",
+    "name": "3 I s s s t e - I ns t it ut o d e S e g ur ida d y S e r v ic io s S o c ia les d e lo s Tr a b a ja d o r e s d e l E s t a d o"
+  },
+  {
+    "code": "141004",
+    "name": "4 S e g ur o d e V ida y Pa g o d e Ma r c ha"
+  },
+  {
+    "code": "142001",
+    "name": "1) 2 9, 6 6 6 7 (\u0003 \u0002= \u0003) R Q G R \u0003 G H \u0003 9 L Y L H Q G D \u0003 G H O \u0003, 6 6 6 7 ("
+  },
+  {
+    "code": "143001",
+    "name": "1 S is t e m a d e A ho r r o p a r a e l R e t ir o"
+  },
+  {
+    "code": "143002",
+    "name": "2 S e g ur o d e R e t ir o"
+  },
+  {
+    "code": "152001",
+    "name": "Pe ns io nes, J ubil a c io nes e I nde m ni z a c io nes"
+  },
+  {
+    "code": "152002",
+    "name": "Pe ns io nes d e S upe r v iv e nc ia"
+  },
+  {
+    "code": "153001",
+    "name": "L iqui d a c io nes p o r I nde m ni z a c io nes y p o r S ueld o s y S a la r io s C a ído s"
+  },
+  {
+    "code": "154001",
+    "name": "A y uda p a r a Pa s a jes"
+  },
+  {
+    "code": "154002",
+    "name": "A y uda p a r a L e nt e s y A p a r a t o s O r t o p é d ic o s"
+  },
+  {
+    "code": "154003",
+    "name": "Ma t e r ia l D idá c t ic o"
+  },
+  {
+    "code": "154004",
+    "name": "D e s p e ns a"
+  },
+  {
+    "code": "154005",
+    "name": "Pr e v is ió n S o c ia l Múl t iple"
+  },
+  {
+    "code": "154006",
+    "name": "C o m p e ns a c ió n p o r A c t iv ida d C ur r ic ul a r"
+  },
+  {
+    "code": "154007",
+    "name": "Pa g o d e D ía s E c o nó m ic o s N o D is fr ut a d o s"
+  },
+  {
+    "code": "154008",
+    "name": "A s igna c ió n D o c e nt e G e nér ic a"
+  },
+  {
+    "code": "154009",
+    "name": "A s igna c ió n D o c e nt e E s p e c íf ic a"
+  },
+  {
+    "code": "154010",
+    "name": "A y uda p a r a I m p r e s ió n d e Te s is"
+  },
+  {
+    "code": "154011",
+    "name": "C a na s t il la Ma t e r na l"
+  },
+  {
+    "code": "154012",
+    "name": "D ía s d e D e s c a ns o O b li g a t o r io"
+  },
+  {
+    "code": "154013",
+    "name": "S e r v ic io d e G ua r d e r ía s"
+  },
+  {
+    "code": "154014",
+    "name": "A y uda p a r a la A d q ui s ic ió n d e Út il e s E s c o la r e s"
+  },
+  {
+    "code": "154015",
+    "name": "C uo t a F ij a p a r a Pe r s o na l d e A s igna t ur a"
+  },
+  {
+    "code": "154016",
+    "name": "C o m p e ns a c ió n p o r A c t ua c ió n y Pr o d uc t iv ida d"
+  },
+  {
+    "code": "154017",
+    "name": "Pa g o d e l D ía d e la s Ma d r e s"
+  },
+  {
+    "code": "154018",
+    "name": "A y uda A S upe r v is o r e s p a r a G a s t o s d e Tr a s la d o"
+  },
+  {
+    "code": "154019",
+    "name": "G r a t if ic a c ió n A d m in is t r a t iv a"
+  },
+  {
+    "code": "154020",
+    "name": "C o m p e ns a c ió n E 3 A r r a igo a l Ma e s t r o e n e l Me d io R ur a l"
+  },
+  {
+    "code": "154021",
+    "name": "C o m p e ns a c ió n I -"
+  },
+  {
+    "code": "215402",
+    "name": "2 C o m p e ns a c ió n Pr o v is io na l C o m p a c t a b le"
+  },
+  {
+    "code": "154023",
+    "name": "C o m p e ns a c ió n Te m p o r a l C o m p a c t a b le"
+  },
+  {
+    "code": "154024",
+    "name": "R e g ul a r iza c ió n a la F un c ió n"
+  },
+  {
+    "code": "154025",
+    "name": "A s igna c ió n p o r A c t iv ida d e s C ul t ur a les"
+  },
+  {
+    "code": "154026",
+    "name": "Pr e v is ió n S o c ia l p a r a Po li c ía s"
+  },
+  {
+    "code": "154027",
+    "name": "A p o y o a la I nt e g r a c ió n E d uc a t iv a"
+  },
+  {
+    "code": "154028",
+    "name": "A t e nc ió n a G r upo s Mul t igr a d o C u o t a s p a r a e l F o n d o d e A h o r r o y F o n d o d e T r a b a j o I n d e m n i z a c i o n e "
+  },
+  {
+    "code": "154029",
+    "name": "A y uda d e Pr e v is ió n S o c ia l p o r R ies g o d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "154030",
+    "name": "G r a t if ic a c ió n E xt r a o r d in a r ia"
+  },
+  {
+    "code": "154031",
+    "name": "G r a t if ic a c ió n"
+  },
+  {
+    "code": "154032",
+    "name": "C o m p e ns a c ió n p o r S e r v ic io s E s p e c ia les"
+  },
+  {
+    "code": "154033",
+    "name": "S e r v ic io s C o nm e m o r a t iv o s"
+  },
+  {
+    "code": "154034",
+    "name": "D e s p e ns a Pa r t ic ipa b le p a r a I S R"
+  },
+  {
+    "code": "154035",
+    "name": "R e c o no c im ient o E xt r a o r d in a r io a la L a b o r D o c e nt e"
+  },
+  {
+    "code": "155001",
+    "name": "C o m p e ns a c ió n p o r I nc o r p o r a c ió n a l Pr o g r a m a d e C a r r e r a A d m in is t r a t iv a"
+  },
+  {
+    "code": "155002",
+    "name": "A y uda p a r a C a p a c it a c ió n y D e s a r r o ll o"
+  },
+  {
+    "code": "161001",
+    "name": "1 Pr e v is io nes d e C a r á c t e r L a b o r a l, E c o nó m ic a y d e S e g ur ida d S o c ia l"
+  },
+  {
+    "code": "171001",
+    "name": "1 E s t ím ul o p o r A nt igüe d a d"
+  },
+  {
+    "code": "171002",
+    "name": "2 E s t ím ul o p o r L ic e nc ia t ur a"
+  },
+  {
+    "code": "171003",
+    "name": "3 Tit ul a c io nes"
+  },
+  {
+    "code": "171004",
+    "name": "4 E s t ím ul o p o r Pun t ua li d a d y A s is t e nc ia"
+  },
+  {
+    "code": "171005",
+    "name": "5 E s t ím ul o p o r A nt igüe d a d (D o c e nt e s)"
+  },
+  {
+    "code": "171006",
+    "name": "6 E s t ím ul o a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "171007",
+    "name": "7 Pr e m io Me ns ua l p o r B uen D e s e m p e ño"
+  },
+  {
+    "code": "171008",
+    "name": "8 E s t ím ul o p o r Pr o d uc t iv ida d"
+  },
+  {
+    "code": "171009",
+    "name": "9 S e r v ic io s C o c ur r ic ul a r e s"
+  },
+  {
+    "code": "171010",
+    "name": "0 E s t ím ul o a l D e s t a c a d o D e s e m p e ño"
+  },
+  {
+    "code": "171011",
+    "name": "1 E s t ím ul o p o r Pr o m o c ió n e n la F un c ió n"
+  },
+  {
+    "code": "171012",
+    "name": "2 E s t ím ul o F ij o d e C a r r e r a Ma g is t e r ia l"
+  },
+  {
+    "code": "171013",
+    "name": "3 I nc e nt iv o s A s e s o r e s Té c ni c o - Pe d a g ó g ic o"
+  },
+  {
+    "code": "171014",
+    "name": "4 E s t ím ul o F ij o d e C a r r e r a Ma g is t e r ia l A s igna c ió n D o c e nt e G e nér ic a"
+  },
+  {
+    "code": "171015",
+    "name": "5 E s t ím ul o F ij o d e C a r r e r a Ma g is t e r ia l C o m p e ns a c ió n Pr o v is io na l C o m p a c t a b le"
+  },
+  {
+    "code": "171016",
+    "name": "6 I nc e nt iv o s a Tut o r e s"
+  },
+  {
+    "code": "171017",
+    "name": "7 I nc e nt iv o s e n E d uc a c ió n B á s ic a p a r a Pr o m o c ió n H o r izo nt a l"
+  },
+  {
+    "code": "211001",
+    "name": "1 Ma t e r ia les y Út il e s d e O fi c in a"
+  },
+  {
+    "code": "212001",
+    "name": "1 Ma t e r ia les y Út il e s d e I m p r e s ió n y R e p r o d uc c ió n"
+  },
+  {
+    "code": "212002",
+    "name": "2 Ma t e r ia l d e F o t o g r a fí a"
+  },
+  {
+    "code": "214001",
+    "name": "1 Ma t e r ia les y Út il e s p a r a e l Pr o c e s a m ient o e n E q ui p o s y B ienes I nf o r m á t ic o s"
+  },
+  {
+    "code": "215001",
+    "name": "1 Ma t e r ia l p a r a I nf o r m a c ió n"
+  },
+  {
+    "code": "215002",
+    "name": "2 S us c r ipc ió n a Pe r ió d ic o s y Me d io s I nf o r m a t iv o s"
+  },
+  {
+    "code": "215003",
+    "name": "3 Ma t e r ia l d e C in e m a t o g r a fí a y A udio v is ua l"
+  },
+  {
+    "code": "216001",
+    "name": "1 Ma t e r ia l d e L im p iez a"
+  },
+  {
+    "code": "216002",
+    "name": "2 G e s t ió n Me ns t r ua l"
+  },
+  {
+    "code": "217001",
+    "name": "1 Ma t e r ia l D idá c t ic o"
+  },
+  {
+    "code": "218001",
+    "name": "1 V a lo r e s d e Tr á ns it o"
+  },
+  {
+    "code": "221001",
+    "name": "1 Pr o d uc t o s A li m e nt ic io s p a r a lo s E fec t iv o s q ue Pa r t ic ipe n e n Pr o g r a m a s d e S e g ur ida d Púb li c a (A c a d e m"
+  },
+  {
+    "code": "221002",
+    "name": "2 Pr o d uc t o s A li m e nt ic io s p a r a Pe r s o na s d e r iv a d o d e la Pr e s t a c ió n d e S e r v ic io s Púb li c o s e n Uni d a d e s"
+  },
+  {
+    "code": "221003",
+    "name": "3 Pr o d uc t o s A li m e nt ic io s p a r a I nt e r no s"
+  },
+  {
+    "code": "221004",
+    "name": "4 Pr o d uc t o s A li m e nt ic io s p a r a e l Pe r s o na l d e r iv a d o d e A c t iv ida d e s E xt r a o r d in a r ia s"
+  },
+  {
+    "code": "221005",
+    "name": "5 A g ua Pur if ic a d a"
+  },
+  {
+    "code": "222001",
+    "name": "1 Pr o d uc t o s A li m e nt ic io s p a r a A ni m a les"
+  },
+  {
+    "code": "223001",
+    "name": "1 Ut e ns il io s p a r a S e r v ic io d e A li m e nt a c ió n"
+  },
+  {
+    "code": "231001",
+    "name": "1 Pr o d uc t o s A li m e nt ic io s, A g r o p e c ua r io s y F o r e s t a les A d q ui r ido s c o m o Ma t e r ia Pr im a"
+  },
+  {
+    "code": "237001",
+    "name": "1 P ro d u c t os d e P l ás t i c o y H u l e"
+  },
+  {
+    "code": "238001",
+    "name": "1 Me r c a nc ía s A d q ui r ida s p a r a s u C o m e r c ia li z a c ió n"
+  },
+  {
+    "code": "241001",
+    "name": "1 Pr o d uc t o s Min e r a les N o Me t á li c o s"
+  },
+  {
+    "code": "242001",
+    "name": "1 C e m e nt o y Pr o d uc t o s d e C o nc r e t o"
+  },
+  {
+    "code": "243001",
+    "name": "1 C a l, Y e s o y Pr o d uc t o s d e Y e s o"
+  },
+  {
+    "code": "244001",
+    "name": "1 Ma d e r a y Pr o d uc t o s d e Ma d e r a"
+  },
+  {
+    "code": "245001",
+    "name": "1 V idr io y Pr o d uc t o s d e V idr io"
+  },
+  {
+    "code": "246001",
+    "name": "1 Ma t e r ia l E léc t r ic o y E lec t r ó ni c o"
+  },
+  {
+    "code": "247001",
+    "name": "1 A r t íc ul o s Me t á li c o s p a r a la C o ns t r uc c ió n"
+  },
+  {
+    "code": "248001",
+    "name": "1 Pla nt a s d e O r na t o"
+  },
+  {
+    "code": "248002",
+    "name": "2 Ma t e r ia les p a r a A c o ndic io na m ient o d e B ienes I nm ueb les"
+  },
+  {
+    "code": "249001",
+    "name": "1 Pin t ur a s"
+  },
+  {
+    "code": "251001",
+    "name": "S us t a nc ia s Q uí m ic a s"
+  },
+  {
+    "code": "252001",
+    "name": "Pla g ui c ida s, A b o no s y F e r t il iza nt e s"
+  },
+  {
+    "code": "253001",
+    "name": "Me d ic in a s y Pr o d uc t o s F a r m a c é ut ic o s"
+  },
+  {
+    "code": "254001",
+    "name": "Ma t e r ia les, A c c e s o r io s y S um in is t r o s Mé d ic o s"
+  },
+  {
+    "code": "255001",
+    "name": "Ma t e r ia les, A c c e s o r io s y S um in is t r o s d e L a b o r a t o r io"
+  },
+  {
+    "code": "256001",
+    "name": "F ibr a s S in t é t ic a s, H ul e s, Plá s t ic o y D e r iv a d o s"
+  },
+  {
+    "code": "259001",
+    "name": "O t ro s P ro d u c t os Q u í mi c os"
+  },
+  {
+    "code": "261001",
+    "name": "1 C o m b us t ibles, L ubr ic a nt e s y A d it iv o s p a r a Pr o g r a m a s d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "261002",
+    "name": "2 C o m b us t ibles, L ubr ic a nt e s y A d it iv o s p a r a S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o s"
+  },
+  {
+    "code": "261003",
+    "name": "3 C o m b us t ibles, L ubr ic a nt e s y A d it iv o s p a r a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "271001",
+    "name": "1 V e s t ua r io s y Uni fo r m e s"
+  },
+  {
+    "code": "272001",
+    "name": "1 Pr e nda s d e Pr o t e c c ió n"
+  },
+  {
+    "code": "273001",
+    "name": "1 A r t íc ul o s D e p o r t iv o s"
+  },
+  {
+    "code": "274001",
+    "name": "1 Te xt il e s"
+  },
+  {
+    "code": "275001",
+    "name": "1 B la nc o s"
+  },
+  {
+    "code": "281001",
+    "name": "1 S us t a nc ia s y Ma t e r ia les E xp lo s iv o s"
+  },
+  {
+    "code": "282001",
+    "name": "1 Ma t e r ia l p a r a Po li c ía y Tr á ns it o"
+  },
+  {
+    "code": "283001",
+    "name": "1 Pr e nda s d e Pr o t e c c ió n p a r a S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "291001",
+    "name": "1 R e fa c c io nes, A c c e s o r io s y H e r r a m ient a s"
+  },
+  {
+    "code": "291002",
+    "name": "2 Ma t e r ia l p a r a Ta ll e r e s"
+  },
+  {
+    "code": "292001",
+    "name": "1 R e fa c c io nes y A c c e s o r io s Me no r e s d e E d if ic io s"
+  },
+  {
+    "code": "293001",
+    "name": "1 R e fa c c io nes y A c c e s o r io s Me no r e s d e Mo b il ia r io y E q ui p o d e A d m in is t r a c ió n, E d uc a c io na l y R e c r e a t"
+  },
+  {
+    "code": "294001",
+    "name": "1 R e fa c c io nes y A c c e s o r io s d e E q ui p o d e C ó m p ut o"
+  },
+  {
+    "code": "296001",
+    "name": "1 N e um á t ic o s y C á m a r a s"
+  },
+  {
+    "code": "296002",
+    "name": "2 R e fa c c io nes y A c c e s o r io s Me no r e s d e E q ui p o d e Tr a ns p o r t e"
+  },
+  {
+    "code": "298001",
+    "name": "1 Ma t e r ia l p a r a Ma nt e ni m ient o d e Ma q ui na r ia y E q ui p o"
+  },
+  {
+    "code": "299001",
+    "name": "1 Ma t e r ia les y S um in is t r o s V a r io s"
+  },
+  {
+    "code": "311001",
+    "name": "1 S e r v ic io d e E ner g ía E léc t r ic a"
+  },
+  {
+    "code": "313001",
+    "name": "1 S e r v ic io d e A g ua Po t a b le"
+  },
+  {
+    "code": "314001",
+    "name": "1 S e r v ic io Te lefó ni c o C o nv e nc io na l"
+  },
+  {
+    "code": "315001",
+    "name": "1 S e r v ic io d e Te lefo ní a C e lu la r"
+  },
+  {
+    "code": "316001",
+    "name": "1 S e r v ic io d e R a d io lo c a li z a c ió n"
+  },
+  {
+    "code": "316002",
+    "name": "2 S e r v ic io d e Te lec o m un ic a c io nes"
+  },
+  {
+    "code": "317001",
+    "name": "1 S e r v ic io s d e C o nduc c ió n d e S e ña les A na ló g ic a s y D igit a les"
+  },
+  {
+    "code": "318001",
+    "name": "1 S e r v ic io Po s t a l"
+  },
+  {
+    "code": "318002",
+    "name": "2 S e r v ic io Te leg r á fi c o"
+  },
+  {
+    "code": "318003",
+    "name": "3 S e r v ic io d e Me ns a jer ía"
+  },
+  {
+    "code": "319001",
+    "name": "1 C o nt r a t a c ió n d e O t r o s S e r v ic io s"
+  },
+  {
+    "code": "322001",
+    "name": "1 A r r e nda m ient o d e E d if ic io s y L o c a les"
+  },
+  {
+    "code": "323001",
+    "name": "1 A r r e nda m ient o d e E q ui p o y B ienes I nf o r m á t ic o s"
+  },
+  {
+    "code": "323002",
+    "name": "2 A r r e nda m ient o d e E q ui p o d e F o t o c o p ia d o"
+  },
+  {
+    "code": "325001",
+    "name": "1 A r r e nda m ient o d e E q ui p o d e Tr a ns p o r t e p a r a Pr o g r a m a s d e S e g ur ida d Púb li c a A r r e n d a m i e n t o d e I n m"
+  },
+  {
+    "code": "325002",
+    "name": "2 A r r e nda m ient o d e E q ui p o d e Tr a ns p o r t e p a r a S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o s"
+  },
+  {
+    "code": "325003",
+    "name": "3 A r r e nda m ient o d e E q ui p o d e Tr a ns p o r t e p a r a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "325004",
+    "name": "4 A r r e nda m ient o d e E q ui p o d e Tr a ns p o r t e p a r a D e s a s t r e s N a t ur a les"
+  },
+  {
+    "code": "326001",
+    "name": "1 A r r e nda m ient o d e Ma q ui na r ia, O t r o s E q ui p o s y H e r r a m ient a s"
+  },
+  {
+    "code": "327001",
+    "name": "1 A r r e nda m ient o d e B ienes I nt a ngib les"
+  },
+  {
+    "code": "329001",
+    "name": "1 O t r o s A r r e nda m ient o s"
+  },
+  {
+    "code": "329002",
+    "name": "2 A r r e nda m ient o d e S e r v ic io s d e L im p iez a"
+  },
+  {
+    "code": "331001",
+    "name": "1 A s e s o r ía s A s o c ia d a s a C o nv e ni o s o A c uer d o s"
+  },
+  {
+    "code": "331002",
+    "name": "2 A s e s o r ía s p o r C o nt r o v e r s ia s"
+  },
+  {
+    "code": "331003",
+    "name": "3 S e r v ic io s Pr o fes io na les I nde p e ndie nt e s (H o no r a r io s)"
+  },
+  {
+    "code": "332001",
+    "name": "1 S e r v ic io s d e D is e ño, A r q ui t e c t ur a, I nge ni e r ía y A c t iv ida d e s R e la c io na d a s"
+  },
+  {
+    "code": "333001",
+    "name": "1 S e r v ic io s d e I nf o r m á t ic a"
+  },
+  {
+    "code": "333002",
+    "name": "2 S e r v ic io s E s t a d ís t ic o s y G e o g r á fi c o s"
+  },
+  {
+    "code": "334001",
+    "name": "1 C a p a c it a c ió n"
+  },
+  {
+    "code": "335001",
+    "name": "1 S e r v ic io s d e I nv e s t iga c ió n C ient íf ic a y D e s a r r o ll o"
+  },
+  {
+    "code": "336001",
+    "name": "1 S e r v ic io s d e A p o y o A d m in is t r a t iv o, Tr a d uc c ió n, F o t o c o p ia d o E I m p r e s ió n"
+  },
+  {
+    "code": "337001",
+    "name": "1 S e r v ic io s d e Pr o t e c c ió n y S e g ur ida d"
+  },
+  {
+    "code": "338001",
+    "name": "1 S e r v ic io s d e V igil a nc ia"
+  },
+  {
+    "code": "339001",
+    "name": "1 E s t udio s, I nv e s t iga c io nes y Pr o y e c t o s"
+  },
+  {
+    "code": "339002",
+    "name": "2 S e r v ic io s p o r V e r if ic a c ió n V e hi c ul a r"
+  },
+  {
+    "code": "341001",
+    "name": "1 S e r v ic io s B a nc a r io s y F in a nc ier o s"
+  },
+  {
+    "code": "341002",
+    "name": "2 I nt e r e s e s y C o m is io nes"
+  },
+  {
+    "code": "341003",
+    "name": "3 A v a lú o Té c ni c o d e Pr e d io s"
+  },
+  {
+    "code": "342001",
+    "name": "1 S e r v ic io s d e C o b r a nza, I nv e s t iga c ió n C r e d it ic ia y S im il a r"
+  },
+  {
+    "code": "343001",
+    "name": "1 S e r v ic io s d e R e c a uda c ió n, Tr a s la d o y C us t o d ia d e V a lo r e s"
+  },
+  {
+    "code": "344001",
+    "name": "1 F ia nza s"
+  },
+  {
+    "code": "345001",
+    "name": "1 S e g ur o s d e B ienes Pa t r im o ni a les"
+  },
+  {
+    "code": "346001",
+    "name": "1 A lm a c e na je, E m b a la je y E nv a s e"
+  },
+  {
+    "code": "347001",
+    "name": "1 F let e s y Ma ni o b r a s"
+  },
+  {
+    "code": "349001",
+    "name": "1 O t r o s S e r v ic io s C o m e r c ia les"
+  },
+  {
+    "code": "351001",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e I nm ueb les (E d if ic io s Púb li c o s)"
+  },
+  {
+    "code": "351002",
+    "name": "2 5% d e R e c ur s o s d e l F A M e nt r e g a d o s a l F ide ic o m is o E m is o r d e l Pr o g r a m a E s c uela s a l C I E N"
+  },
+  {
+    "code": "352001",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e E q ui p o y Mo b il ia r io d e A d m in is t r a c ió n"
+  },
+  {
+    "code": "352002",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e O t r o s"
+  },
+  {
+    "code": "352003",
+    "name": "2 5% d e R e c ur s o s d e l F A M e nt r e g a d o s a l F ide ic o m is o E m is o r d e l Pr o g r a m a E s c uela s a l C I E N"
+  },
+  {
+    "code": "353001",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e B ienes I nf o r m á t ic o s"
+  },
+  {
+    "code": "354001",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e E q ui p o s d e H o s p it a les"
+  },
+  {
+    "code": "355001",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e V e hí c ul o s A d s c r it o s a Pr o g r a m a s d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "355002",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e V e hí c ul o s A d s c r it o s a S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o "
+  },
+  {
+    "code": "355003",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e V e hí c ul o s A d s c r it o s a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "357001",
+    "name": "C o ns e r v a c ió n y Ma nt e ni m ient o d e Ma q ui na r ia y E q ui p o Pe s a d o"
+  },
+  {
+    "code": "358001",
+    "name": "S e r v ic io d e L a v a nde r ía, L im p iez a, H igiene"
+  },
+  {
+    "code": "359001",
+    "name": "F um iga c ió n"
+  },
+  {
+    "code": "361001",
+    "name": "1 Pub li c a c io nes O fi c ia les p a r a D if us ió n e I nf o r m a c ió n"
+  },
+  {
+    "code": "361002",
+    "name": "2 Pub li c a c io nes O fi c ia les p a r a L ic it a c io nes Púb li c a s y Tr á m it e s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "361003",
+    "name": "3 O t r o s G a s t o s d e Pub li c a c ió n, D if us ió n e I nf o r m a c ió n"
+  },
+  {
+    "code": "361004",
+    "name": "4 I m p r e s io nes"
+  },
+  {
+    "code": "361005",
+    "name": "5 D if us ió n d e Me ns a jes S o b r e Pr o g r a m a s y A c t iv ida d e s G ube r na m e nt a les"
+  },
+  {
+    "code": "363001",
+    "name": "1 S e r v ic io s d e C r e a t iv ida d y Pr e p r o d uc c ió n"
+  },
+  {
+    "code": "364001",
+    "name": "1 S e r v ic io s d e R e v e la d o d e F o t o g r a fí a s"
+  },
+  {
+    "code": "366001",
+    "name": "1 D if us ió n d e Me ns a jes S o b r e Pr o g r a m a s y A c t iv ida d e s G ube r na m e nt a les a t r a v é s d e I nt e r net"
+  },
+  {
+    "code": "371001",
+    "name": "1 Pa s a jes N a c io na les a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "371002",
+    "name": "2 Pa s a jes I nt e r na c io na les a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "372001",
+    "name": "1 Pa s a jes N a c io na les a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "372002",
+    "name": "2 Pa s a jes I nt e r na c io na les a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "373001",
+    "name": "1 Pa s a jes Ma r ít im o s, L a c us t r e s y F lu v ia les"
+  },
+  {
+    "code": "375001",
+    "name": "1 V iá t ic o s N a c io na les a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "376001",
+    "name": "1 V iá t ic o s I nt e r na c io na les a S e r v ido r e s Púb li c o s"
+  },
+  {
+    "code": "377001",
+    "name": "1 G a s t o s d e I ns t a la c ió n y Tr a s la d o d e Me na je"
+  },
+  {
+    "code": "378001",
+    "name": "1 S e r v ic io s I nt e g r a les d e Tr a s la d o y V iá t ic o s A e r o ná ut ic a"
+  },
+  {
+    "code": "379001",
+    "name": "1 Tr a s la d o s L o c a les"
+  },
+  {
+    "code": "379002",
+    "name": "2 H o s p e d a jes E xt r a o r d in a r io s"
+  },
+  {
+    "code": "381001",
+    "name": "1 A t e nc ió n a V is it a nt e s"
+  },
+  {
+    "code": "382001",
+    "name": "1 E s p e c t á c ul o s C ul t ur a les"
+  },
+  {
+    "code": "382002",
+    "name": "2 A c t iv ida d e s C ív ic a s y F e s t iv ida d e s"
+  },
+  {
+    "code": "383001",
+    "name": "1 C o ngr e s o s y C o nv e nc io nes"
+  },
+  {
+    "code": "384001",
+    "name": "1 E xp o s ic io nes"
+  },
+  {
+    "code": "385001",
+    "name": "1 G a s t o s d e R e p r e s e nt a c ió n"
+  },
+  {
+    "code": "391001",
+    "name": "1 S e r v ic io s F un e r a r io s y d e C e m e nt e r io s"
+  },
+  {
+    "code": "392001",
+    "name": "1 O t r o s I m p ues t o s, D e r e c ho s y C uo t a s"
+  },
+  {
+    "code": "394001",
+    "name": "1 S e nt e nc ia s y R e s o lu c io nes p o r A ut o r ida d C o m p e t e nt e"
+  },
+  {
+    "code": "395001",
+    "name": "1 Pe na s, Mul t a s, A c c e s o r io s y A c t ua li z a c io nes"
+  },
+  {
+    "code": "396001",
+    "name": "1 O t r o s G a s t o s p o r R e s p o ns a b il ida d e s"
+  },
+  {
+    "code": "398001",
+    "name": "1 I m p ues t o S o b r e E r o g a c io nes p o r R e m un e r a c io nes a l Tr a b a jo Pe r s o na l"
+  },
+  {
+    "code": "399001",
+    "name": "1 F o ndo R e v o lv e nt e"
+  },
+  {
+    "code": "411001",
+    "name": "1 A s igna c io nes Pr e s upue s t a r ia s a l Po d e r E jec ut iv o"
+  },
+  {
+    "code": "412001",
+    "name": "1 N o A s igna d o"
+  },
+  {
+    "code": "412002",
+    "name": "2 N o A s igna d o"
+  },
+  {
+    "code": "412003",
+    "name": "3 G a s t o s d e S e r v ic io s Pe r s o na les d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "412004",
+    "name": "4 G a s t o s d e Ma t e r ia les y S um in is t r o s d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "412005",
+    "name": "5 G a s t o s d e S e r v ic io s G e ner a les d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "412006",
+    "name": "6 G a s t o s d e Tr a ns fer e nc ia s, A s igna c io nes y O t r a s A y uda s d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "412007",
+    "name": "7 G a s t o s d e B ienes Mue b les e I nm ueb les d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "412008",
+    "name": "8 G a s t o s d e I nv e r s ió n Púb li c a d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "412009",
+    "name": "9 G a s t o s d e I nv e r s io nes F in a nc ier a s d e l Po d e r L e g is la t iv o"
+  },
+  {
+    "code": "413001",
+    "name": "1 N o A s igna d o"
+  },
+  {
+    "code": "413002",
+    "name": "2 N o A s igna d o"
+  },
+  {
+    "code": "413003",
+    "name": "3 G a s t o s d e S e r v ic io s Pe r s o na les d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "413004",
+    "name": "4 G a s t o s d e Ma t e r ia les y S um in is t r o s d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "413005",
+    "name": "5 G a s t o s d e S e r v ic io s G e ner a les d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "413006",
+    "name": "6 G a s t o s d e Tr a ns fer e nc ia s, A s igna c io nes y O t r a s A y uda s d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "413007",
+    "name": "7 G a s t o s d e B ienes Mue b les e I nm ueb les d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "413008",
+    "name": "8 G a s t o s d e I nv e r s ió n Púb li c a d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "413009",
+    "name": "9 G a s t o s d e I nv e r s io nes F in a nc ier a s d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "414001",
+    "name": "1 N o A s igna d o"
+  },
+  {
+    "code": "414002",
+    "name": "2 N o A s igna d o"
+  },
+  {
+    "code": "414003",
+    "name": "3 G a s t o s d e I nv e r s ió n d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "414004",
+    "name": "4 G a s t o s S e r v ic io s Pe r s o na les d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "414005",
+    "name": "5 G a s t o s Ma t e r ia les y S um in is t r o s d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "414006",
+    "name": "6 G a s t o s S e r v ic io s G e ner a les d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "414007",
+    "name": "7 G a s t o s Tr a ns fer e nc ia s, A s igna c io nes y O t r a s A y uda s d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "414008",
+    "name": "8 G a s t o s B ienes Mue b les e I nm ueb les d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "414009",
+    "name": "9 G a s t o s I nv e r s io nes F in a nc ier a s d e lo s O r g a ni s m o s A ut ó no m o s"
+  },
+  {
+    "code": "415001",
+    "name": "1 N o A s igna d o"
+  },
+  {
+    "code": "415002",
+    "name": "2 N o A s igna d o"
+  },
+  {
+    "code": "415003",
+    "name": "3 S ubs idio s a E nt ida d e s S e r v ic io s Pe r s o na les"
+  },
+  {
+    "code": "415004",
+    "name": "4 S ubs idio s a E nt ida d e s Ma t e r ia les y S um in is t r o s"
+  },
+  {
+    "code": "415005",
+    "name": "5 S ubs idio s a E nt ida d e s S e r v ic io s G e ner a les"
+  },
+  {
+    "code": "415006",
+    "name": "6 S ubs idio s a E nt ida d e s Tr a ns fer e nc ia s, A s igna c io nes y O t r a s A y uda s"
+  },
+  {
+    "code": "415007",
+    "name": "7 S ubs idio s a E nt ida d e s B ienes Mue b les e I nm ueb les"
+  },
+  {
+    "code": "415008",
+    "name": "8 S ubs idio s a E nt ida d e s I nv e r s io nes F in a nc ier a s"
+  },
+  {
+    "code": "415009",
+    "name": "9 S ubs idio s a E nt ida d e s"
+  },
+  {
+    "code": "424001",
+    "name": "1 Tr a ns fer e nc ia s O t o r g a d a s a E nt ida d e s F e d e r a t iv a s y Mun ic ipio s"
+  },
+  {
+    "code": "425001",
+    "name": "1 A p o r t a c io nes a F ide ic o m is o s R e c ur s o s E s t a t a les"
+  },
+  {
+    "code": "425002",
+    "name": "2 A p o r t a c io nes a F ide ic o m is o s R e c ur s o s F e d e r a les"
+  },
+  {
+    "code": "425003",
+    "name": "3 A p o r t a c io nes p a r a e l F o ndo d e S e g ur ida d Púb li c a R e c ur s o s E s t a t a les"
+  },
+  {
+    "code": "425004",
+    "name": "4 A p o r t a c io nes p a r a e l F o ndo d e S e g ur ida d Púb li c a R e c ur s o s F e d e r a les"
+  },
+  {
+    "code": "431001",
+    "name": "1 S u b s i d i os a l a P ro d u c c i ón"
+  },
+  {
+    "code": "432001",
+    "name": "1 S ubs idio a la D is t r ibuc ió n"
+  },
+  {
+    "code": "433001",
+    "name": "1 S ubs idio a la I nv e r s ió n"
+  },
+  {
+    "code": "436001",
+    "name": "1 S ubs idio I nf o na v it"
+  },
+  {
+    "code": "437001",
+    "name": "1 S ubvenc io nes a la E c o no m ía F a m il ia r"
+  },
+  {
+    "code": "438001",
+    "name": "1 S ubs idio a Mun ic ipio s"
+  },
+  {
+    "code": "439001",
+    "name": "1 S ubs idio I m p ues t o d e la Te nenc ia"
+  },
+  {
+    "code": "439002",
+    "name": "2 S ubs idio s I nf r a e s t r uc t ur a p a r a e l D e s a r r o ll o"
+  },
+  {
+    "code": "439003",
+    "name": "3 S ubs idio s a E nt ida d e s I nf r a e s t r uc t ur a"
+  },
+  {
+    "code": "439004",
+    "name": "4 O b r a s y A c c io nes p a r a e l C o m b a t e a la Po b r e z a"
+  },
+  {
+    "code": "439005",
+    "name": "5 S ubs idio p o r C e r t if ic a c ió n e n Ma t e r ia d e C a li d a d"
+  },
+  {
+    "code": "439006",
+    "name": "6 D iv e r s o s S ubs idio s"
+  },
+  {
+    "code": "441001",
+    "name": "1 Pr o t e c c ió n a A nc ia no s y D e s v a li d o s"
+  },
+  {
+    "code": "441002",
+    "name": "2 S e r v ic io s Mé d ic o s"
+  },
+  {
+    "code": "441003",
+    "name": "3 Tr a s la d o d e Pe r s o na s"
+  },
+  {
+    "code": "442001",
+    "name": "1 B e c a s"
+  },
+  {
+    "code": "443001",
+    "name": "1 A y uda s E d uc a c io na les R e c ur s o s E s t a t a les"
+  },
+  {
+    "code": "443002",
+    "name": "2 A y uda s E d uc a c io na les R e c ur s o s F e d e r a les"
+  },
+  {
+    "code": "444001",
+    "name": "1 A y uda s C ul t ur a les y C ient íf ic o s"
+  },
+  {
+    "code": "445001",
+    "name": "1 A y uda s a I ns t it uc io nes"
+  },
+  {
+    "code": "445002",
+    "name": "2 A p o y o a R e p r e s e nt a nt e s O b r e r o s y Pa t r o na les"
+  },
+  {
+    "code": "445003",
+    "name": "3 A y uda s a A g r upa c io nes"
+  },
+  {
+    "code": "445004",
+    "name": "4 A y uda s a S in d ic a t o s"
+  },
+  {
+    "code": "448001",
+    "name": "1 A y uda s p o r D e s a s t r e s N a t ur a les y O t r o s S in ies t r o s"
+  },
+  {
+    "code": "451001",
+    "name": "Pe ns io nes"
+  },
+  {
+    "code": "461001",
+    "name": "1 Tr a ns fer e nc ia s a F ide ic o m is o s d e l Po d e r E jec ut iv o"
+  },
+  {
+    "code": "492001",
+    "name": "1 Me m b r e s ía s y S us c r ipc io nes a O r g a ni s m o s I nt e r na c io na les"
+  },
+  {
+    "code": "511001",
+    "name": "Mo b il ia r io y E q ui p o d e O fi c in a"
+  },
+  {
+    "code": "512001",
+    "name": "O t r o s Mue b les"
+  },
+  {
+    "code": "513001",
+    "name": "B ienes p a r a B ibli o t e c a s y Mus e o s"
+  },
+  {
+    "code": "515001",
+    "name": "B ienes I nf o r m á t ic o s"
+  },
+  {
+    "code": "519001",
+    "name": "O t r o s Mo b il ia r io s y E q ui p o d e A d m in is t r a c ió n"
+  },
+  {
+    "code": "521001",
+    "name": "E q ui p o A udio v is ua l"
+  },
+  {
+    "code": "522001",
+    "name": "A p a r a t o s D e p o r t iv o s"
+  },
+  {
+    "code": "523001",
+    "name": "E q ui p o F o t o g r á fi c o"
+  },
+  {
+    "code": "529001",
+    "name": "E q ui p o s R e c r e a t iv o s"
+  },
+  {
+    "code": "529002",
+    "name": "I ns t r um e nt o s Mus ic a les"
+  },
+  {
+    "code": "529003",
+    "name": "Mue b les E s c o la r e s"
+  },
+  {
+    "code": "531001",
+    "name": "E q ui p o Mé d ic o y d e L a b o r a t o r io"
+  },
+  {
+    "code": "532001",
+    "name": "I ns t r um e nt a l Mé d ic o y d e L a b o r a t o r io"
+  },
+  {
+    "code": "541001",
+    "name": "V e hí c ul o s Te r r e s t r e s p a r a Pr o g r a m a s d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "541002",
+    "name": "V e hí c ul o s Te r r e s t r e s p a r a S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o s"
+  },
+  {
+    "code": "541003",
+    "name": "V e hí c ul o s Te r r e s t r e s p a r a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "542001",
+    "name": "C a r r o c e r ía s y R e m o lque s p a r a Pr o g r a m a s d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "542002",
+    "name": "C a r r o c e r ía s y R e m o lque s p a r a Pr o g r a m a s S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o s"
+  },
+  {
+    "code": "542003",
+    "name": "C a r r o c e r ía s y R e m o lque s p a r a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "543001",
+    "name": "E q ui p o A é r e o p a r a Pr o g r a m a s d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "543002",
+    "name": "E q ui p o A é r e o p a r a Pr o g r a m a s S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o s"
+  },
+  {
+    "code": "543003",
+    "name": "E q ui p o A é r e o p a r a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "545001",
+    "name": "Ma r ít im o s, L a c us t r e s y F lu v ia les p a r a Pr o g r a m a s d e S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "545002",
+    "name": "Ma r ít im o s, L a c us t r e s y F lu v ia les p a r a S e r v ic io s y O p e r a c ió n d e Pr o g r a m a s Púb li c o s"
+  },
+  {
+    "code": "545003",
+    "name": "Ma r ít im o s, L a c us t r e s y F lu v ia les p a r a S e r v ic io s A d m in is t r a t iv o s"
+  },
+  {
+    "code": "549001",
+    "name": "O t r o s E q ui p o s d e Tr a ns p o r t e"
+  },
+  {
+    "code": "551001",
+    "name": "E q ui p o p a r a Po li c ía y Tr á ns it o"
+  },
+  {
+    "code": "561001",
+    "name": "Ma q ui na r ia y E q ui p o A g r o p e c ua r io"
+  },
+  {
+    "code": "562001",
+    "name": "Ma q ui na r ia y E q ui p o I ndus t r ia l"
+  },
+  {
+    "code": "562002",
+    "name": "Ma q ui na r ia y E q ui p o p a r a S um in is t r o d e A g ua Po t a b le"
+  },
+  {
+    "code": "563001",
+    "name": "Ma q ui na r ia y E q ui p o d e C o ns t r uc c ió n"
+  },
+  {
+    "code": "564001",
+    "name": "S is t e m a s d e A ir e A c o ndic io na d o, C a lefa c c ió n y d e R e fr ige r a c ió n I ndus t r ia l y C o m e r c ia l"
+  },
+  {
+    "code": "565001",
+    "name": "E q ui p o s y A p a r a t o s d e C o m un ic a c io nes y Te lec o m un ic a c io nes"
+  },
+  {
+    "code": "566001",
+    "name": "Ma q ui na r ia y E q ui p o E léc t r ic o y E lec t r ó ni c o"
+  },
+  {
+    "code": "567001",
+    "name": "Ma q ui na r ia y E q ui p o p a r a Ta ll e r e s"
+  },
+  {
+    "code": "567002",
+    "name": "H e r r a m ient a s y Má q ui na s - H e r r a m ient a"
+  },
+  {
+    "code": "567003",
+    "name": "R e fa c c io nes Ma y o r e s"
+  },
+  {
+    "code": "569001",
+    "name": "E q ui p o s d e Me d ic ió n"
+  },
+  {
+    "code": "569002",
+    "name": "E q ui p o d e S e ña la m ient o"
+  },
+  {
+    "code": "569003",
+    "name": "E q ui p o d e I nge ni e r ía y D ibuj o"
+  },
+  {
+    "code": "569004",
+    "name": "Má q ui na s y A p a r a t o s C ient íf ic o s"
+  },
+  {
+    "code": "569005",
+    "name": "Ma q ui na r ia y E q ui p o d e I m p r e nt a"
+  },
+  {
+    "code": "569006",
+    "name": "O t r o s B ienes Mue b les"
+  },
+  {
+    "code": "571001",
+    "name": "B o v in o s"
+  },
+  {
+    "code": "572001",
+    "name": "Po r c in o s"
+  },
+  {
+    "code": "573001",
+    "name": "A v e s"
+  },
+  {
+    "code": "574001",
+    "name": "O v in o s y C a p r in o s"
+  },
+  {
+    "code": "575001",
+    "name": "Pe c e s y A c ui c ul t ur a"
+  },
+  {
+    "code": "576001",
+    "name": "E q ui no s"
+  },
+  {
+    "code": "578001",
+    "name": "Á r b o les y Pla nt a s"
+  },
+  {
+    "code": "581001",
+    "name": "Te r r e no s p a r a Us o s D iv e r s o s"
+  },
+  {
+    "code": "581002",
+    "name": "Te r r e no s p a r a la C o ns t r uc c ió n d e I nm ueb les"
+  },
+  {
+    "code": "583001",
+    "name": "A d q ui s ic ió n d e E d if ic io s y L o c a les"
+  },
+  {
+    "code": "589001",
+    "name": "A d ju d ic a c io nes, E xp r o p ia c io nes e I nde m ni z a c io nes d e I nm ueb les"
+  },
+  {
+    "code": "589002",
+    "name": "R e s e r v a s Te r r it o r ia les Ur b a na s"
+  },
+  {
+    "code": "589003",
+    "name": "O t r o s B ienes I nm ueb les"
+  },
+  {
+    "code": "591001",
+    "name": "S o ft w a r e"
+  },
+  {
+    "code": "592001",
+    "name": "Pa t e nt e s"
+  },
+  {
+    "code": "593001",
+    "name": "Ma r c a s"
+  },
+  {
+    "code": "594001",
+    "name": "D e r e c ho s"
+  },
+  {
+    "code": "595001",
+    "name": "C o nc e s io nes"
+  },
+  {
+    "code": "597001",
+    "name": "L ic e nc ia s I nf o r m á t ic a s e I nt e lec t ua les"
+  },
+  {
+    "code": "599001",
+    "name": "O t r o s A c t iv o s I nt a ngib les"
+  },
+  {
+    "code": "611001",
+    "name": "1 E d if ic a c ió n H a b it a c io na l"
+  },
+  {
+    "code": "612001",
+    "name": "1 E d if ic a c ió n N o H a b it a c io na l"
+  },
+  {
+    "code": "613001",
+    "name": "1 C o ns t r uc c ió n d e O b r a s p a r a e l A b a s t e c im ient o d e A g ua, Pe t r ó leo, G a s, E lec t r ic ida d y Te lec o m un ic a c io"
+  },
+  {
+    "code": "614001",
+    "name": "1 D iv is ió n d e Te r r e no s y C o ns t r uc c ió n d e O b r a s d e Ur b a ni z a c ió n"
+  },
+  {
+    "code": "615001",
+    "name": "1 C o ns t r uc c ió n d e V ía s d e C o m un ic a c ió n"
+  },
+  {
+    "code": "616001",
+    "name": "1 O t r a s C o ns t r uc c io nes d e I nge ni e r ía C iv il u O b r a Pe s a d a"
+  },
+  {
+    "code": "617001",
+    "name": "1 I ns t a la c io nes y E q ui p a m ient o e n C o ns t r uc c io nes"
+  },
+  {
+    "code": "619001",
+    "name": "1 Tr a b a jo s d e A c a b a d o s e n E d if ic a c io nes y O t r o s Tr a b a jo s E s p e c ia li z a d o s"
+  },
+  {
+    "code": "621001",
+    "name": "1 O b r a s d e C o ns t r uc c ió n p a r a E d if ic io s H a b it a c io na les"
+  },
+  {
+    "code": "621002",
+    "name": "2 Ma nt e ni m ient o y R e ha b il it a c ió n d e E d if ic a c io nes H a b it a c io na les"
+  },
+  {
+    "code": "622001",
+    "name": "1 O b r a s d e C o ns t r uc c ió n p a r a E d if ic io s N o H a b it a c io na les"
+  },
+  {
+    "code": "622002",
+    "name": "2 Ma nt e ni m ient o y R e ha b il it a c ió n d e E d if ic a c io nes N o H a b it a c io na les"
+  },
+  {
+    "code": "623001",
+    "name": "1 C o ns t r uc c ió n d e O b r a s p a r a e l A b a s t e c im ient o d e A g ua, Pe t r ó leo, G a s, E lec t r ic ida d y Te lec o m un ic a c io"
+  },
+  {
+    "code": "623002",
+    "name": "2 Ma nt e ni m ient o y R e ha b il it a c ió n d e O b r a s p a r a e l A b a s t e c im ient o d e A g ua, Pe t r ó leo, G a s, E lec t r ic ida d "
+  },
+  {
+    "code": "624001",
+    "name": "1 O b r a s d e Pr e e d if ic a c ió n e n Te r r e no s d e C o ns t r uc c ió n"
+  },
+  {
+    "code": "624002",
+    "name": "2 C o ns t r uc c ió n d e O b r a s d e Ur b a ni z a c ió n"
+  },
+  {
+    "code": "624003",
+    "name": "3 Ma nt e ni m ient o y R e ha b il it a c ió n d e O b r a s d e Ur b a ni z a c ió n"
+  },
+  {
+    "code": "625001",
+    "name": "1 C o ns t r uc c ió n d e V ía s d e C o m un ic a c ió n"
+  },
+  {
+    "code": "625002",
+    "name": "2 Ma nt e ni m ient o y R e ha b il it a c ió n d e la s V ía s d e C o m un ic a c ió n"
+  },
+  {
+    "code": "626001",
+    "name": "1 O t r a s C o ns t r uc c io nes d e I nge ni e r ía C iv il u O b r a Pe s a d a"
+  },
+  {
+    "code": "626002",
+    "name": "2 Ma nt e ni m ient o y R e ha b il it a c ió n d e o t r a s O b r a s d e I nge ni e r ía C iv il u O b r a s Pe s a d a s"
+  },
+  {
+    "code": "627001",
+    "name": "1 I ns t a la c io nes y O b r a s d e C o ns t r uc c ió n E s p e c ia li z a d a"
+  },
+  {
+    "code": "629001",
+    "name": "1 E ns a m b le y E d if ic a c ió n d e C o ns t r uc c io nes Pr e fa b r ic a d a s"
+  },
+  {
+    "code": "629002",
+    "name": "2 O b r a s d e Te r m in a c ió n y A c a b a d o d e E d if ic io s"
+  },
+  {
+    "code": "629003",
+    "name": "3 S e r v ic io s d e S upe r v is ió n d e O b r a s"
+  },
+  {
+    "code": "629004",
+    "name": "4 S e r v ic io s p a r a la L ibe r a c ió n d e D e r e c ho s d e V ía"
+  },
+  {
+    "code": "629005",
+    "name": "5 O t r o s S e r v ic io s R e la c io na d o s c o n O b r a s Púb li c a s"
+  },
+  {
+    "code": "631001",
+    "name": "1 E s t udio s, F o r m ul a c ió n y E v a lu a c ió n d e Pr o y e c t o s Pr o d uc t iv o s"
+  },
+  {
+    "code": "632001",
+    "name": "1 E jec uc ió n d e Pr o y e c t o s Pr o d uc t iv o s"
+  },
+  {
+    "code": "632002",
+    "name": "2 I nf r a e s t r uc t ur a p a r a e l D e s a r r o ll o"
+  },
+  {
+    "code": "632003",
+    "name": "3 A p o r t a c io nes"
+  },
+  {
+    "code": "632004",
+    "name": "4 O t r o s Pr o g r a m a s"
+  },
+  {
+    "code": "722001",
+    "name": "1 A c c io nes y Pa r t ic ipa c io nes d e C a p it a l e n E nt ida d e s Pa r a e s t a t a les E m p r e s a r ia les y N o F in a nc ier a s c o "
+  },
+  {
+    "code": "724001",
+    "name": "1 Pr o y e c t o s d e Pr e s t a c ió n d e S e r v ic io s c o n F in e s d e Po lí t ic a E c o nó m ic a"
+  },
+  {
+    "code": "751001",
+    "name": "I nv e r s io nes e n F ide ic o m is o s d e l Po d e r E jec ut iv o"
+  },
+  {
+    "code": "791001",
+    "name": "1 C o nt in g e nc ia s p o r F e nó m e no s N a t ur a les"
+  },
+  {
+    "code": "792001",
+    "name": "1 C o nt in g e nt e s"
+  },
+  {
+    "code": "792002",
+    "name": "2 D e v o lu c io nes a la F e d e r a c ió n"
+  },
+  {
+    "code": "792003",
+    "name": "3 C o m p lem e nt a r io s"
+  },
+  {
+    "code": "799001",
+    "name": "1 E r o g a c io nes p o r I ngr e s o s Pr o p io s"
+  },
+  {
+    "code": "799002",
+    "name": "2 O t r a s Pr o v is io nes E c o nó m ic a s"
+  },
+  {
+    "code": "811001",
+    "name": "1 Pa r t ic ipa c io nes a Mun ic ipio s"
+  },
+  {
+    "code": "812001",
+    "name": "1 F o ndo d e F o m e nt o Mun ic ipa l"
+  },
+  {
+    "code": "813001",
+    "name": "1 F o ndo E s p e c ia l I.E.P.S."
+  },
+  {
+    "code": "813002",
+    "name": "2 F o ndo d e C o m p e ns a c ió n d e l I.S.A.N."
+  },
+  {
+    "code": "813003",
+    "name": "3 F o ndo d e F is c a li z a c ió n"
+  },
+  {
+    "code": "813004",
+    "name": "4 F o ndo d e E xt r a c c ió n d e H idr o c a r b ur o s"
+  },
+  {
+    "code": "813005",
+    "name": "5 F o ndo d e C o m p e ns a c ió n (F o c o)"
+  },
+  {
+    "code": "813006",
+    "name": "6 F o ndo d e G a s o li na y D iés e l"
+  },
+  {
+    "code": "813007",
+    "name": "7 F o ndo d e C o m p e ns a c ió n d e l I E PS d e G a s o li na y D ies e l"
+  },
+  {
+    "code": "814001",
+    "name": "1 F o ndo d e E s t a b il iza c ió n a lo s I ngr e s o s d e la s E nt ida d e s F e d e r a t iv a s (F E I E F)"
+  },
+  {
+    "code": "816001",
+    "name": "1 Pa r t ic ipa c io nes p o r Te nenc ia s"
+  },
+  {
+    "code": "816002",
+    "name": "2 Pa r t ic ipa c io nes p o r I.S.A.N."
+  },
+  {
+    "code": "816003",
+    "name": "3 I nc e nt iv o s a la V e nt a d e D iés e l y G a s o li na"
+  },
+  {
+    "code": "816004",
+    "name": "4 I S R Pa r t ic ipa b le"
+  },
+  {
+    "code": "816005",
+    "name": "5 N o A s igna d o"
+  },
+  {
+    "code": "816006",
+    "name": "6 N o A s igna d o"
+  },
+  {
+    "code": "832001",
+    "name": "1 F o ndo p a r a e l F o r t a lec im ient o d e lo s Mun ic ipio s"
+  },
+  {
+    "code": "832002",
+    "name": "2 F o ndo p a r a la I nf r a e s t r uc t ur a S o c ia l Mun ic ipa l"
+  },
+  {
+    "code": "833001",
+    "name": "1 A p o r t a c io nes E s t a t a l a Mun ic ipio s p a r a e l Pa g o d e A lu m b r a d o Púb li c o"
+  },
+  {
+    "code": "833002",
+    "name": "2 O t r a s A p o r t a c io nes d e l E s t a d o a lo s Mun ic ipio s"
+  },
+  {
+    "code": "833003",
+    "name": "3 S ubs idio s a Mun ic ipio s"
+  },
+  {
+    "code": "853001",
+    "name": "F o ndo d e S ubs idio s a Mun ic ipio s p a r a S e g ur ida d Púb li c a"
+  },
+  {
+    "code": "853002",
+    "name": "A p o r t a c io nes F e d e r a les a Mun ic ipio s p a r a I nf r a e s t r uc t ur a"
+  },
+  {
+    "code": "853003",
+    "name": "Mun ic ipio s Pr o d uc t o r e s d e H idr o c a r b ur o s Te r r e s t r e s"
+  },
+  {
+    "code": "853004",
+    "name": "Mun ic ipio s Pr o d uc t o r e s d e H idr o c a r b ur o s Ma r ít im o s"
+  },
+  {
+    "code": "853005",
+    "name": "S ubs idio s a Mun ic ipio s"
+  },
+  {
+    "code": "853006",
+    "name": "Z o na s F e d e r a les Ma r ít im a s y Te r r e s t r e s"
+  },
+  {
+    "code": "853007",
+    "name": "C O N A G UA"
+  },
+  {
+    "code": "853008",
+    "name": "PR O A G UA"
+  },
+  {
+    "code": "911001",
+    "name": "1 A m o r t iza c ió n d e la D e uda I nt e r na c o n I ns t it uc io nes d e C r é d it o"
+  },
+  {
+    "code": "912001",
+    "name": "1 A m o r t iza c ió n d e la D e uda I nt e r na p o r E m is ió n d e Tít ul o s y V a lo r e s"
+  },
+  {
+    "code": "921001",
+    "name": "1 I nt e r e s e s d e la D e uda I nt e r na c o n I ns t it uc io nes d e C r é d it o C o r t o Pla z o"
+  },
+  {
+    "code": "921002",
+    "name": "2 I nt e r s e s d e la D e uda I nt e r na c o n I ns t it uc io nes d e C r é d it o L a r g o Pla z o"
+  },
+  {
+    "code": "922001",
+    "name": "1 I nt e r e s e s d e la D e uda d e Tít ul o s y V a lo r e s C o r t o Pla z o"
+  },
+  {
+    "code": "922002",
+    "name": "2 I nt e r e s e s d e la D e uda d e Tít ul o s y V a lo r e s L a r g o Pla z o"
+  },
+  {
+    "code": "922003",
+    "name": "3 A c t ua li z a c ió n d e UD I S a C o r t o Pla z o"
+  },
+  {
+    "code": "922004",
+    "name": "4 A c t ua li z a c ió n d e UD I S a L a r g o Pla z o"
+  },
+  {
+    "code": "923001",
+    "name": "1 I nt e r e s e s p o r A r r e nda m ient o s F in a nc ier o s C o r t o Pla z o"
+  },
+  {
+    "code": "923002",
+    "name": "2 I nt e r e s e s p o r A r r e nda m ient o s F in a nc ier o s L a r g o Pla z o"
+  },
+  {
+    "code": "931001",
+    "name": "1 C o m is io nes I ns t it uc io nes B a nc a r ia s C o r t o Pla z o"
+  },
+  {
+    "code": "931002",
+    "name": "2 C o m is io nes I ns t it uc io nes B a nc a r ia s L a r g o Pla z o"
+  },
+  {
+    "code": "931003",
+    "name": "3 C o m is io nes Tít ul o s y V a lo r e s C o r t o Pla z o"
+  },
+  {
+    "code": "931004",
+    "name": "4 C o m is io nes Tít ul o s y V a lo r e s L a r g o Pla z o"
+  },
+  {
+    "code": "931005",
+    "name": "5 C o m is io nes A r r e nda m ient o s F in a nc ier o s C o r t o Pla z o"
+  },
+  {
+    "code": "931006",
+    "name": "6 C o m is io nes A r r e nda m ient o s F in a nc ier o s L a r g o Pla z o"
+  },
+  {
+    "code": "941001",
+    "name": "1 G a s t o s I ns t it uc io nes B a nc a r ia s C o r t o Pla z o"
+  },
+  {
+    "code": "941002",
+    "name": "2 G a s t o s I ns t it uc io nes B a nc a r ia s L a r g o Pla z o"
+  },
+  {
+    "code": "941003",
+    "name": "3 G a s t o s Tít ul o s y V a lo r e s C o r t o Pla z o"
+  },
+  {
+    "code": "941004",
+    "name": "4 G a s t o s Tít ul o s y V a lo r e s L a r g o Pla z o"
+  },
+  {
+    "code": "941005",
+    "name": "5 G a s t o s A r r e nda m ient o s F in a nc ier o s C o r t o Pla z o"
+  },
+  {
+    "code": "941006",
+    "name": "6 G a s t o s A r r e nda m ient o s F in a nc ier o s L a r g o Pla z o"
+  },
+  {
+    "code": "991001",
+    "name": "1 A d e udo s d e E jer c ic io s F is c a les A nt e r io r e s"
+  },
+  {
+    "code": "991002",
+    "name": "2 C a p it a l C o nt r o v e r s ia s Mun ic ipa les"
+  },
+  {
+    "code": "991003",
+    "name": "3 Pa s iv o s d e l Po d e r J udic ia l"
+  },
+  {
+    "code": "991004",
+    "name": "4 Pa s iv o s S E G O B"
+  },
+  {
+    "code": "991005",
+    "name": "5 Pa s iv o s S E F I PLA N"
+  },
+  {
+    "code": "991006",
+    "name": "6 Pa s iv o s C G C S"
+  },
+  {
+    "code": "991007",
+    "name": "7 Pa s iv o s C G"
+  },
+  {
+    "code": "991008",
+    "name": "8 Pa s iv o s S I O P"
+  },
+  {
+    "code": "991009",
+    "name": "9 Pa s iv o s S S P"
+  },
+  {
+    "code": "991027",
+    "name": "7 Pa s iv o s UV"
+  },
+  {
+    "code": "991028",
+    "name": "8 Pa s iv o s S E D E S O L (2)"
+  },
+  {
+    "code": "991029",
+    "name": "9 Pa s iv o s S S P (I S R)"
+  },
+  {
+    "code": "991030",
+    "name": "0 Pa s iv o s F is c a lí a G e ner a l"
+  },
+  {
+    "code": "991031",
+    "name": "1 Pa s iv o s I E E V"
+  },
+  {
+    "code": "991032",
+    "name": "2 Pa s iv o s I E E V (2)"
+  },
+  {
+    "code": "991033",
+    "name": "3 Pa s iv o s S E G O B (I S R)"
+  },
+  {
+    "code": "991034",
+    "name": "4 Pa s iv o s S E V (I S R y C r é d it o F is c a l)"
+  },
+  {
+    "code": "991035",
+    "name": "5 Pa s iv o s PC (I S R)"
+  },
+  {
+    "code": "991036",
+    "name": "6 Pa s iv o s S I O P (2)"
+  },
+  {
+    "code": "991037",
+    "name": "7 Pa s iv o s PC (2)"
+  },
+  {
+    "code": "991038",
+    "name": "8 Pa s iv o s S E D E S O L (I S R)"
+  },
+  {
+    "code": "991039",
+    "name": "9 Pa s iv o s Mun ic ipio s (2)"
+  },
+  {
+    "code": "991040",
+    "name": "0 Pa s iv o s C G (I S R)"
+  },
+  {
+    "code": "991041",
+    "name": "1 Pa s iv o s C G (I S R 2)"
+  },
+  {
+    "code": "991042",
+    "name": "2 Pa s iv o s Mun ic ipio s (3)"
+  },
+  {
+    "code": "991043",
+    "name": "3 Pa s iv o s S I O P (I S R)"
+  },
+  {
+    "code": "991044",
+    "name": "4 Pa s iv o s TE V"
+  },
+  {
+    "code": "991045",
+    "name": "5 Pa s iv o s O PLE"
+  },
+  {
+    "code": "991046",
+    "name": "6 Pa s iv o s S E F I PLA N (C r é d it o F is c a l)"
+  },
+  {
+    "code": "991047",
+    "name": "7 Pa s iv o s S I O P (C r é d it o F is c a l)"
+  },
+  {
+    "code": "991048",
+    "name": "8 Pa s iv o s S E V (C r é d it o F is c a l)"
+  },
+  {
+    "code": "991049",
+    "name": "9 Pa s iv o s S I O P (S A T)"
+  },
+  {
+    "code": "991050",
+    "name": "Pa s iv o s S E D A R PA (I S R)"
+  },
+  {
+    "code": "991051",
+    "name": "Pa s iv o s S S P (I S R 2)"
+  },
+  {
+    "code": "991053",
+    "name": "Pa s iv o s D I F"
+  },
+  {
+    "code": "991056",
+    "name": "Pa s iv o s S E D E S O L (I S R) 2"
+  },
+  {
+    "code": "991057",
+    "name": "Pa s iv o s S E F I PLA N (I S R) 2"
+  },
+  {
+    "code": "991058",
+    "name": "Pa s iv o s S E V (I S R) 2"
+  },
+  {
+    "code": "991059",
+    "name": "C a d e na s Pr o d uc t iv a s"
+  },
+  {
+    "code": "991060",
+    "name": "0 Pa s iv o S E D E C O P- C r é d it o F is c a l"
+  },
+  {
+    "code": "199106",
+    "name": "6 1 Pa s iv o S E D E C O P- C r é d it o F is c a l"
+  },
+  {
+    "code": "299106",
+    "name": "6 2 Pa s iv o S A L UD - C r é d it o F is c a l"
+  },
+  {
+    "code": "991065",
+    "name": "5 Pa s iv o C o m un ic a c ió n S o c ia l- C r é d it o F is c a l"
+  },
+  {
+    "code": "991068",
+    "name": "8 Pa s iv o S e c r e t a r ia d e Tr a b a jo"
+  },
+  {
+    "code": "991069",
+    "name": "9 Pa s iv o C S"
+  },
+  {
+    "code": "991070",
+    "name": "0 Pa s iv o S a lu d"
+  },
+  {
+    "code": "991071",
+    "name": "1 Pa s iv o Pr o t e c c ió n C iv il"
+  },
+  {
+    "code": "991072",
+    "name": "2 Pa s iv o s O fi c na d e l C. G o b e r na d o r C r é d it o F is c a l (2)"
+  },
+  {
+    "code": "991073",
+    "name": "3 Pa s iv o C r é d it o F is c a l I V A"
+  },
+  {
+    "code": "991074",
+    "name": "4 Pa s iv o s O fi c na d e l C. G o b e r na d o r C r é d it o F is c a l (3)"
+  },
+  {
+    "code": "991075",
+    "name": "5 Pa s iv o s S E V (S E G UR O)"
+  },
+  {
+    "code": "991076",
+    "name": "6 Pa s iv o s Pr o c ur a d ur ía G e nea l d e J us t ic ia A d e u d o s d e E j e r c i c i o s F i s c a l e s A n t e r i o r e s (A d e f a s) A"
+  }
+]
